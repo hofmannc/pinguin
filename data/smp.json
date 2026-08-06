@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Wie lautet der Titel des Softwareprojekts?",
+    "set": "",
+    "values": "Pinguin"
+  },
+  {
+    "question": "Zu welchem(n) Forschungsbereich(en) geh\u00f6rt diese Software?",
+    "set": "",
+    "values": "Naturwissenschaften / Wasserforschung"
+  },
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 3: F\u00fcr die Software ist es wesentlich Fehler zu vermeiden und Risiken zu reduzieren. Dies gilt insbesondere f\u00fcr kritische Software und solche mit Produkteigenschaften."
+  }
+]

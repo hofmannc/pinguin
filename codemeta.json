@@ -1,0 +1,7 @@
+
+    {
+        "@context": "https://w3id.org/codemeta/3.0",
+        "name": "Pinguin",
+        "@type": "SoftwareSourceCode",    
+        "applicationCategory": "Natural Sciences / Water Research"
+    }
